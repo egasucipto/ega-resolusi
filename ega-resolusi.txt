@@ -3,4 +3,3 @@ EGA ROSULIS
 - Bulan depan udah bisa javascript
 - Dapat kerja ditahun ini
 - Kasih uang buat orang tua
-- Punya komputer
